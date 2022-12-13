@@ -1,0 +1,32 @@
+.myheader{ 
+    font-size: 120px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center; 
+    color: antiquewhite;
+}
+
+.gray-text{
+    color: darkgrey;
+  }
+
+.scratch {
+    color: red;
+    font-size: xx-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+    
+  .smalltext {
+    font-size: 2x; 
+  }
+
+    .arial {
+      font-family: Arial;
+    }
+    .center{
+        text-align: center;
+    }
+
+    .center {
+        position: center;
+    }
+
